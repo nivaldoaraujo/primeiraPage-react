@@ -1,0 +1,19 @@
+header{
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+    color: aliceblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+    font-size: 15px;
+}
+header a:hover{
+    color:cadetblue;
+}
